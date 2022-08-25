@@ -1,8 +1,9 @@
 
 # UEFI/BIOS modding utilities collection
 
-This repository is a static mirror to various UEFI/BIOS firmware modding utilities to view, extract and edit.
+This repository is a repository to various UEFI/BIOS firmware modding utilities to view, extract and edit.
 
+You can view it as an archive, a static mirror, unofficial of course.
 
 ## Disclaimer
 
