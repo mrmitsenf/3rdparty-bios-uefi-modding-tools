@@ -10,9 +10,9 @@ This repository is for educational purposes only!! Copyright Disclaimer under se
 
 ## List of BIOS/UEFI tools
 
-3-rd party tools : https://github.com/mrmitsenf/3rdparty-bios-uefi-modding-tools
+3-rd party  tools : https://github.com/mrmitsenf/3rdparty-bios-uefi-modding-tools
 
-GitHub     tools : https://github.com/mrmitsenf?tab=repositories
+GitHub      tools : https://github.com/mrmitsenf?tab=repositories
 
 ## Why I am doing this?
 
